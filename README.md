@@ -1,1 +1,2 @@
-# cs261
+# cs271
+implement the snapshot algorithm
